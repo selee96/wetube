@@ -1,0 +1,29 @@
+{
+  "folders": [
+	{
+		"path": "c:\\Users\\SELEE\\Desktop\\study\\강의\\[따라하며 배우는 리액트&파이어베이스] 채팅 애플리케이션 만들기\\react-firebase-chat-app"
+	},
+	{
+		"path": "c:\\Users\\SELEE\\Desktop\\study\\강의\\kokoa_clone"
+	},
+	{
+		"path": "c:\\Users\\SELEE\\Documents\\GitHub\\nomadcoders-kakao-clone"
+	},
+	{
+		"path": "c:\\Users\\SELEE\\Documents\\GitHub\\vanilla-javascript"
+	},
+	{
+		"path": "c:\\Users\\SELEE\\Documents\\GitHub\\css-layout-master"
+	},
+	{
+		"path": "..\\..\\..\\nomadcoders"
+	},
+	{
+		"path": "..\\..\\..\\..\\project\\nanum"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "kokoa-clone",
+    "liveServer.settings.port": 5501
+  }
+}
